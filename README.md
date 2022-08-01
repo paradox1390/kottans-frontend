@@ -11,4 +11,25 @@
 
 </details>
    
-## Git is both complex and simple.
+
+### Studing
+* **Stage 0**
+    + <details>
+        <summary>Git та GitHub</summary>
+        In my opinian "Git is both complex and simple".
+    </details>
+
+    + <details>
+        <summary>Linux, Command Line, HTTP Tools</summary>
+        <table>
+        <tr>
+            <th>Modules</th>
+            <th>Image</th>
+        </tr>
+         <tr>
+            <td>Module #1</td>
+            <td><img src='assets\img\linux\modul1\modul.jpg'></td>
+        </tr>
+        </table>
+    </details>
+
