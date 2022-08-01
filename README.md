@@ -30,6 +30,10 @@
             <td>Module #1</td>
             <td><img src='assets\img\linux\modul1\modul.jpg'></td>
         </tr>
+        <tr>
+            <td>Module #2</td>
+            <td><img src='assets\img\linux\modul2\modul.jpg'></td>
+        </tr>
         </table>
     </details>
 
