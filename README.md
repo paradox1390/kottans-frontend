@@ -43,5 +43,6 @@
             <td><img src='assets\img\linux\modul4\modul.jpg'></td>
         </tr>
         </table>
+        
     </details>
 
