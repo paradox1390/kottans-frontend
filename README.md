@@ -34,6 +34,10 @@
             <td>Module #2</td>
             <td><img src='assets\img\linux\modul2\modul.jpg'></td>
         </tr>
+        <tr>
+            <td>Module #3</td>
+            <td><img src='assets\img\linux\modul3\modul.jpg'></td>
+        </tr>
         </table>
     </details>
 
