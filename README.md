@@ -43,6 +43,24 @@
             <td><img src='assets\img\linux\modul4\modul.jpg'></td>
         </tr>
         </table>
-        
+    </details>
+
+    + <details>
+        <summary>Git Collaboration</summary>
+        <table>
+        <tr>
+            <th>Modules</th>
+            <th>Image</th>
+        </tr>
+         <tr>
+            <td>GIT main</td>
+            <td><img src='task_git_collaboration\git_main.jpg'></td>
+        </tr>
+        <tr>
+            <td>GIT remote</td>
+            <td><img src='task_git_collaboration\git_remote.jpg'></td>
+        </tr>
+        </table>
+        <p>Курс на coursera про GIT цікавий але важкувато сприймати на англійській мові чи з автоматичним переводом. Але пробіли чи якісь питання чудово гугляться та заповнюються інформацією з youtube.</p>
     </details>
 
