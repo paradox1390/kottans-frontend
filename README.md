@@ -12,7 +12,7 @@
 </details>
    
 
-### Studing
+### LEARNING
 * **Stage 0**
     + <details>
         <summary>Git та GitHub</summary>
@@ -62,5 +62,24 @@
         </tr>
         </table>
         <p>Курс на coursera про GIT цікавий але важкувато сприймати на англійській мові чи з автоматичним переводом. Але пробіли чи якісь питання чудово гугляться та заповнюються інформацією з youtube.</p>
+    </details>
+
+    + <details>
+        <summary>Intro to HTML & CSS</summary>
+        <table>
+        <tr>
+            <th>Modules</th>
+            <th>Image</th>
+        </tr>
+         <tr>
+            <td>Learn HTML</td>
+            <td><img src='task_html_css_intro\learn_HTML.jpg'></td>
+        </tr>
+        <tr>
+            <td>Learn CSS</td>
+            <td><img src='task_html_css_intro\learn_css.png'></td>
+        </tr>
+        </table>
+        <p>Курси початкового рівня, прості і зрозумілі.</p>
     </details>
 
