@@ -83,3 +83,22 @@
         <p>Курси початкового рівня, прості і зрозумілі.</p>
     </details>
 
+    + <details>
+        <summary>Responsive Web Design</summary>
+        <table>
+        <tr>
+            <th>Modules</th>
+            <th>Image</th>
+        </tr>
+         <tr>
+            <td>Flexbox Froggy</td>
+            <td><img src='task_responsive_web_design\flex_froggy.jpg'></td>
+        </tr>
+        <tr>
+            <td>Grid Garden</td>
+            <td><img src='task_responsive_web_design\grid_garden.jpg'></td>
+        </tr>
+        </table>
+        <p>Чудові відео уроки по флексам і грідам</p>
+    </details>
+
